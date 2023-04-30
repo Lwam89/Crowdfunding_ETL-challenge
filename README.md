@@ -16,6 +16,7 @@ the overall project is broken into 4 subsections.
 # Subsection 4: Create the Crowdfunding database:
 
 
+
 # Subsection 1: Create Category, Subcategory Dataframes
 
 Extract and transform the crowdfunding.xlsx data to create a dataframe for category
