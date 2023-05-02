@@ -1,5 +1,5 @@
 # Crowdfunding_ETL-challenge
-## Project Partners: Rebecca Solomon,Rosanna Chiu,Yi Pan,Telmen Erdenebat and Harsh Chapadia.
+## Project Partners: Lwam Mehare, Rebecca Solomon, Rosanna Chiu, Yi Pan, Telmen Erdenebat and Harsh Chapadia.
 
 # Note: For the partners project my group and I discussed the deliverables and each completed the code independently. There are separate repos and separate notebooks, scripts with the work.
 
